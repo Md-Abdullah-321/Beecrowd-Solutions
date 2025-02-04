@@ -1,6 +1,6 @@
 /**
- * Title: Consumption
- * Description: Calculate the Consumption - Beecrowd problem 1014
+ * Title: Banknotes
+ * Description: Calculate the banknotes count - Beecrowd problem 1014
  * Author: Md Abdullah
  * Date: 04/02/2025
  */
